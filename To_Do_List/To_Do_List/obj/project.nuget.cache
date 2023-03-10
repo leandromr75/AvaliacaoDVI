@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "ohv+BFXpNbHo3hSw1AjT2WPyw/5qOcWWK/Mv6a1rCwLjUMIbENfJrzFXYdk9F394xqSFKtfRkvQbzDNL4dPAQQ==",
+  "success": true,
+  "projectFilePath": "C:\\Projetos\\DVI\\AvaliacaoDVI\\To_Do_List\\To_Do_List\\To_Do_List.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://nuget.syncfusion.com/nuget_aspnetmvc/nuget/getsyncfusionpackages/aspnetmvc'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}

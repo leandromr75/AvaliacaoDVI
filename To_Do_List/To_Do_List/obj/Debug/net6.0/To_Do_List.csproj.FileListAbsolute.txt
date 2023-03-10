@@ -1,0 +1,15 @@
+C:\Projetos\DVI\AvaliacaoDVI\To_Do_List\To_Do_List\bin\Debug\net6.0\To_Do_List.exe
+C:\Projetos\DVI\AvaliacaoDVI\To_Do_List\To_Do_List\bin\Debug\net6.0\To_Do_List.deps.json
+C:\Projetos\DVI\AvaliacaoDVI\To_Do_List\To_Do_List\bin\Debug\net6.0\To_Do_List.runtimeconfig.json
+C:\Projetos\DVI\AvaliacaoDVI\To_Do_List\To_Do_List\bin\Debug\net6.0\To_Do_List.dll
+C:\Projetos\DVI\AvaliacaoDVI\To_Do_List\To_Do_List\bin\Debug\net6.0\To_Do_List.pdb
+C:\Projetos\DVI\AvaliacaoDVI\To_Do_List\To_Do_List\obj\Debug\net6.0\To_Do_List.csproj.AssemblyReference.cache
+C:\Projetos\DVI\AvaliacaoDVI\To_Do_List\To_Do_List\obj\Debug\net6.0\To_Do_List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\DVI\AvaliacaoDVI\To_Do_List\To_Do_List\obj\Debug\net6.0\To_Do_List.AssemblyInfoInputs.cache
+C:\Projetos\DVI\AvaliacaoDVI\To_Do_List\To_Do_List\obj\Debug\net6.0\To_Do_List.AssemblyInfo.cs
+C:\Projetos\DVI\AvaliacaoDVI\To_Do_List\To_Do_List\obj\Debug\net6.0\To_Do_List.csproj.CoreCompileInputs.cache
+C:\Projetos\DVI\AvaliacaoDVI\To_Do_List\To_Do_List\obj\Debug\net6.0\To_Do_List.dll
+C:\Projetos\DVI\AvaliacaoDVI\To_Do_List\To_Do_List\obj\Debug\net6.0\refint\To_Do_List.dll
+C:\Projetos\DVI\AvaliacaoDVI\To_Do_List\To_Do_List\obj\Debug\net6.0\To_Do_List.pdb
+C:\Projetos\DVI\AvaliacaoDVI\To_Do_List\To_Do_List\obj\Debug\net6.0\To_Do_List.genruntimeconfig.cache
+C:\Projetos\DVI\AvaliacaoDVI\To_Do_List\To_Do_List\obj\Debug\net6.0\ref\To_Do_List.dll
